@@ -1,0 +1,2 @@
+#its comment about gitignore i want to not show secrets.txt to remote repository
+secrets.txt
